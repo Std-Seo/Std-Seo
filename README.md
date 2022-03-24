@@ -5,7 +5,7 @@
   <meta charset = "UTF-8">
     <style>
       body{
-        background-color:"pink";
+        background-color:pink;
       }
     </style>
   </head>
