@@ -4,11 +4,6 @@
 <html>
   <head>
   <meta charset = "UTF-8">
-    <style>
-      body{
-        background-color:pink;
-      }
-    </style>
   </head>
 <body>
   <h2 style="color:#D6FFFF";>💖Hello!💖</h2><br> 
