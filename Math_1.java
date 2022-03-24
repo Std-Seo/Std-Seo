@@ -1,4 +1,4 @@
-public class math {
+public class main {
 	public static void main(String[] args) {
 		
 		// 2번 프린트 문제 6번
