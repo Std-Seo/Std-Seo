@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Std-Seo=jhe226&layout=compact)](https://github.com/Std-Seo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Seo&layout=compact)](https://github.com/Std-Seo/github-readme-stats)
 <html lang="en">
 <html>
   <head>
