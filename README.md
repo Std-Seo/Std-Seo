@@ -4,7 +4,7 @@
   <head>
   <meta charset = "UTF-8">
     <style>
-      body{background-color:"white"}
+      body{background-color:"pink";}
     </style>
   </head>
 <body>
