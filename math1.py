@@ -12,3 +12,9 @@ for x in range(0, 11):
     for y in range(0, 11):
         if(x + 4*y == 10):
             print("(",x,",",y,")")
+
+# x+y<=4를 만족시키는 자연수 순서쌍 구하기
+for x in range(1,5):
+    for y in range(1,5):
+        if(x+y <= 4):
+            print("(",x,",",y,")")
