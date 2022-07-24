@@ -1,4 +1,6 @@
-public class main {
+import java.util.ArrayList;
+
+public class math3 {
 	public static void main(String[] args) {
       //4번 프린트 문제 1번
 	  	int num = 36;
@@ -20,4 +22,3 @@ public class main {
 		  System.out.println(num + "의 약수의 총합 : " + sum);
 	    }
     }
-  }
