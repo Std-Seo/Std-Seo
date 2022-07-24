@@ -1,3 +1,1 @@
-markdown = html
-
 # hello! 💕
