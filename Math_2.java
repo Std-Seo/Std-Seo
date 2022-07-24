@@ -1,4 +1,4 @@
-public class main {
+public class math2 {
 	public static void main(String[] args) {
     // 3번 프린트 문제 7번
 		int count = 0;
