@@ -1,4 +1,4 @@
-public class main {
+public class math1 {
 	public static void main(String[] args) {
 		
 		// 2번 프린트 문제 6번
@@ -33,9 +33,5 @@ public class main {
 			}
 		}
 		System.out.println("");
-    
-
-      
-
-  
-
+	}
+}
