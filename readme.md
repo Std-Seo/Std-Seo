@@ -15,5 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Seo)](https://github.com/Std-Seo/github-readme-stats)
 
 <h3>✨ My Blog <br><br>
-<a href=https://half-harp.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://half-harp.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
                                                                                                                                              </div>
