@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></h3>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></h3>
   <p>+ Java, C# 등</p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Seo)](https://github.com/Std-Seo/github-readme-stats)
