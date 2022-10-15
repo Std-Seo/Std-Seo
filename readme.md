@@ -9,11 +9,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></h3>
-  <p>+ Java, C# 등</p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Seo)](https://github.com/Std-Seo/github-readme-stats)
+<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=none&logoColor=white"/></h3>
 
 <h3>✨ My Blog <br><br>
 <a href="https://half-harp.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-                                                                                                                                             </div>
+                                                                                                                                             
+<br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Seo)](https://github.com/Std-Seo/github-readme-stats)
+
+</div>
