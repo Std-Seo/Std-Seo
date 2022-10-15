@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=소프트웨어개발%20전공%20학생입니다!&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=Std-Seo&fontSize=40)
 
 
 <h3>💕 Studying <br><br>
