@@ -14,7 +14,8 @@ hello👋 프로그래밍을 공부하고 있는 학생입니다.
 <img src="https://img.shields.io/badge/JavaFX-white?style=flat-square&logo=none&logoColor=black"/></h3>
 
 <h3>✨ My Blog <br><br>
-<a href="https://half-harp.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a></h3>
+<a href="https://half-harp.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://blog.naver.com/half_harp"><img src="https://img.shields.io/badge/Naver Blog-1DDB16?style=flat-square&logo=none&logoColor=white"/></a></h3>
 티스토리 블로그 half✨에서 배우고 있는 지식을 글로 정리하고 있습니다! <br>                                                                                                                     
 <br><br>
   
